@@ -26,4 +26,8 @@ While fighting my in-flight boredom: I decided to do something crazy.:wink: <br 
 - FACTOR
 - FANTOM
 - FORTRAN
+- GO
+- GOOGLEAPPSCRIPT
+- GROOVY
+- HASKELL
 - LISP
