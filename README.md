@@ -30,4 +30,11 @@ While fighting my in-flight boredom: I decided to do something crazy.:wink: <br 
 - GOOGLEAPPSCRIPT
 - GROOVY
 - HASKELL
+- HTML
+- ICEDCOFFEESCRIPT
+- ICON
+- J
+- JAVASCRIPT
+- JSON
+- KOTLIN
 - LISP
