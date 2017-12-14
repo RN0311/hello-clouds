@@ -7,9 +7,13 @@ While fighting against my in-flight boredom: I decided to do something crazy.:wi
 - AWK
 - BASIC
 - BASH
+- BOO
+- BROCCOLI
+- BURLESQUE
 - C
 - C++
 - COFFEESCRIPT
 - COBOL
 - CRYSTAL
+- CSS
 - LISP
