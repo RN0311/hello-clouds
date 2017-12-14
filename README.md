@@ -20,4 +20,8 @@ While fighting my in-flight boredom: I decided to do something crazy.:wink: <br 
 - CEYLON
 - CLOJURE
 - CSS
+- D
+- ERLANG
+- ELIXIR
+- FACTOR
 - LISP
