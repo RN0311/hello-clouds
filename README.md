@@ -9,5 +9,6 @@ While fighting against my boredom during flight: I decided to do something crazy
 - BASH
 - C
 - C++
-- Coffeescript
+- COFFEESCRIPT
+- COBOL
 - LISP
