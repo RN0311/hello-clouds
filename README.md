@@ -38,3 +38,14 @@ While fighting my in-flight boredom: I decided to do something crazy.:wink: <br 
 - JSON
 - KOTLIN
 - LISP
+- MATLAB
+- NODEJS
+- OCTAVE
+- PASCAL
+- PYTHON
+- PHARO
+- PHP
+- Q
+- R
+- SCALA
+- TRUMPSCRIPT
