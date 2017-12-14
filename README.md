@@ -7,3 +7,5 @@ While fighting against my boredom during flight: I decided to do something crazy
 - AWK
 - BASIC
 - BASH
+- C
+- C++
