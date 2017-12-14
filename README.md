@@ -11,4 +11,5 @@ While fighting against my in-flight boredom: I decided to do something crazy.:wi
 - C++
 - COFFEESCRIPT
 - COBOL
+- CRYSTAL
 - LISP
