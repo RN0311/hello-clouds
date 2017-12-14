@@ -24,4 +24,6 @@ While fighting my in-flight boredom: I decided to do something crazy.:wink: <br 
 - ERLANG
 - ELIXIR
 - FACTOR
+- FANTOM
+- FORTRAN
 - LISP
